@@ -1,0 +1,1 @@
+json.numbers_key @lucky_numbers
